@@ -1,0 +1,10 @@
+# CODEOWNERS file
+
+# By default, require review from senior devs
+* @senior-dev-username
+
+# Example: API folder requires API lead
+/api/ @api-lead-username
+
+# Example: Frontend folder requires frontend lead
+/frontend/ @frontend-lead-username
